@@ -1,0 +1,1565 @@
+[
+    {
+        "pos": [
+            0,
+            2,
+            3,
+            1
+        ],
+        "ang": [
+            0,
+            3,
+            1,
+            0
+        ],
+        "challenge": [
+            "man",
+            "man",
+            "tent",
+            "tent",
+            "wolf",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            3,
+            2,
+            0,
+            1
+        ],
+        "ang": [
+            0,
+            3,
+            1,
+            0
+        ],
+        "challenge": [
+            "dlah",
+            "man",
+            "tent",
+            "tent",
+            "wolf",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            2,
+            1,
+            3,
+            0
+        ],
+        "ang": [
+            2,
+            2,
+            1,
+            1
+        ],
+        "challenge": [
+            "dlah",
+            "man",
+            "man",
+            "man",
+            "tent",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            2,
+            1,
+            3,
+            0
+        ],
+        "ang": [
+            2,
+            0,
+            1,
+            1
+        ],
+        "challenge": [
+            "dlah",
+            "man",
+            "man",
+            "man",
+            "tent",
+            "tent",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            2,
+            1,
+            3,
+            0
+        ],
+        "ang": [
+            2,
+            2,
+            0,
+            1
+        ],
+        "challenge": [
+            "dlah",
+            "dlah",
+            "man",
+            "man",
+            "man",
+            "tent",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            2,
+            1,
+            3,
+            0
+        ],
+        "ang": [
+            2,
+            0,
+            0,
+            1
+        ],
+        "challenge": [
+            "dlah",
+            "dlah",
+            "man",
+            "man",
+            "man",
+            "tent",
+            "tent"
+        ]
+    },
+    {
+        "pos": [
+            1,
+            2,
+            0,
+            3
+        ],
+        "ang": [
+            1,
+            3,
+            0,
+            1
+        ],
+        "challenge": [
+            "dlah",
+            "dlah",
+            "dlah",
+            "man",
+            "wolf",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            2,
+            1,
+            0,
+            3
+        ],
+        "ang": [
+            2,
+            2,
+            0,
+            1
+        ],
+        "challenge": [
+            "dlah",
+            "dlah",
+            "dlah",
+            "man",
+            "man",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            2,
+            1,
+            0,
+            3
+        ],
+        "ang": [
+            2,
+            0,
+            0,
+            1
+        ],
+        "challenge": [
+            "dlah",
+            "dlah",
+            "dlah",
+            "man",
+            "man",
+            "tent",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            2,
+            3,
+            1
+        ],
+        "ang": [
+            1,
+            3,
+            1,
+            0
+        ],
+        "challenge": [
+            "camel",
+            "man",
+            "man",
+            "tent",
+            "wolf",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            3,
+            2,
+            0,
+            1
+        ],
+        "ang": [
+            3,
+            3,
+            2,
+            0
+        ],
+        "challenge": [
+            "camel",
+            "man",
+            "man",
+            "tent",
+            "tent",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            1,
+            3,
+            2
+        ],
+        "ang": [
+            0,
+            2,
+            1,
+            1
+        ],
+        "challenge": [
+            "camel",
+            "man",
+            "man",
+            "man",
+            "tent",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            1,
+            3,
+            2
+        ],
+        "ang": [
+            0,
+            0,
+            1,
+            1
+        ],
+        "challenge": [
+            "camel",
+            "man",
+            "man",
+            "man",
+            "tent",
+            "tent",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            1,
+            2,
+            3,
+            0
+        ],
+        "ang": [
+            1,
+            3,
+            1,
+            0
+        ],
+        "challenge": [
+            "camel",
+            "dlah",
+            "man",
+            "man",
+            "wolf",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            3,
+            1,
+            0,
+            2
+        ],
+        "ang": [
+            2,
+            0,
+            0,
+            1
+        ],
+        "challenge": [
+            "camel",
+            "dlah",
+            "dlah",
+            "dlah",
+            "man",
+            "man",
+            "tent"
+        ]
+    },
+    {
+        "pos": [
+            3,
+            1,
+            0,
+            2
+        ],
+        "ang": [
+            0,
+            2,
+            2,
+            1
+        ],
+        "challenge": [
+            "camel",
+            "camel",
+            "man",
+            "man",
+            "tent",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            1,
+            3,
+            2
+        ],
+        "ang": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "challenge": [
+            "camel",
+            "camel",
+            "man",
+            "man",
+            "man",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            3,
+            1,
+            0,
+            2
+        ],
+        "ang": [
+            3,
+            0,
+            2,
+            1
+        ],
+        "challenge": [
+            "camel",
+            "camel",
+            "man",
+            "man",
+            "man",
+            "tent",
+            "tent"
+        ]
+    },
+    {
+        "pos": [
+            1,
+            3,
+            0,
+            2
+        ],
+        "ang": [
+            3,
+            3,
+            0,
+            1
+        ],
+        "challenge": [
+            "camel",
+            "camel",
+            "dlah",
+            "dlah",
+            "dlah",
+            "man",
+            "tent"
+        ]
+    },
+    {
+        "pos": [
+            3,
+            1,
+            0,
+            2
+        ],
+        "ang": [
+            2,
+            1,
+            0,
+            1
+        ],
+        "challenge": [
+            "camel",
+            "camel",
+            "dlah",
+            "dlah",
+            "dlah",
+            "man",
+            "man"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            1,
+            3,
+            2
+        ],
+        "ang": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "challenge": [
+            "camel",
+            "camel",
+            "camel",
+            "man",
+            "man",
+            "man",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            3,
+            1,
+            0,
+            2
+        ],
+        "ang": [
+            3,
+            1,
+            2,
+            1
+        ],
+        "challenge": [
+            "camel",
+            "camel",
+            "camel",
+            "man",
+            "man",
+            "man",
+            "tent"
+        ]
+    },
+    {
+        "pos": [
+            1,
+            3,
+            0,
+            2
+        ],
+        "ang": [
+            0,
+            3,
+            0,
+            1
+        ],
+        "challenge": [
+            "camel",
+            "camel",
+            "camel",
+            "dlah",
+            "dlah",
+            "dlah",
+            "man"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            3,
+            2,
+            1
+        ],
+        "ang": [
+            1,
+            1,
+            1,
+            0
+        ],
+        "challenge": [
+            "camel",
+            "camel",
+            "camel",
+            "camel",
+            "tent",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            3,
+            1,
+            2
+        ],
+        "ang": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "challenge": [
+            "camel",
+            "camel",
+            "camel",
+            "camel",
+            "man",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            3,
+            1,
+            2
+        ],
+        "ang": [
+            1,
+            0,
+            2,
+            1
+        ],
+        "challenge": [
+            "camel",
+            "camel",
+            "camel",
+            "camel",
+            "man",
+            "man",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            1,
+            3,
+            2,
+            0
+        ],
+        "ang": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "challenge": [
+            "camel",
+            "camel",
+            "camel",
+            "camel",
+            "camel",
+            "dlah",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            1,
+            3,
+            2,
+            0
+        ],
+        "ang": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "challenge": [
+            "camel",
+            "camel",
+            "camel",
+            "camel",
+            "camel",
+            "dlah",
+            "man"
+        ]
+    },
+    {
+        "pos": [
+            1,
+            3,
+            2,
+            0
+        ],
+        "ang": [
+            0,
+            3,
+            1,
+            0
+        ],
+        "challenge": [
+            "camel",
+            "camel",
+            "camel",
+            "camel",
+            "camel",
+            "dlah",
+            "dlah"
+        ]
+    },
+    {
+        "pos": [
+            2,
+            0,
+            3,
+            1
+        ],
+        "ang": [
+            2,
+            1,
+            1,
+            0
+        ],
+        "challenge": [
+            "man",
+            "man",
+            "tent",
+            "tent",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            3,
+            2,
+            0,
+            1
+        ],
+        "ang": [
+            0,
+            2,
+            1,
+            0
+        ],
+        "challenge": [
+            "dlah",
+            "tent",
+            "tent",
+            "wolf",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            2,
+            1,
+            0,
+            3
+        ],
+        "ang": [
+            2,
+            2,
+            0,
+            0
+        ],
+        "challenge": [
+            "dlah",
+            "dlah",
+            "man",
+            "man",
+            "man",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            1,
+            2,
+            0,
+            3
+        ],
+        "ang": [
+            1,
+            2,
+            0,
+            1
+        ],
+        "challenge": [
+            "dlah",
+            "dlah",
+            "dlah",
+            "wolf",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            2,
+            1,
+            0,
+            3
+        ],
+        "ang": [
+            1,
+            0,
+            0,
+            1
+        ],
+        "challenge": [
+            "dlah",
+            "dlah",
+            "dlah",
+            "man",
+            "tent",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            2,
+            1,
+            0,
+            3
+        ],
+        "ang": [
+            2,
+            3,
+            0,
+            1
+        ],
+        "challenge": [
+            "dlah",
+            "dlah",
+            "dlah",
+            "man",
+            "man",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            2,
+            3,
+            0,
+            1
+        ],
+        "ang": [
+            1,
+            3,
+            0,
+            0
+        ],
+        "challenge": [
+            "camel",
+            "dlah",
+            "dlah",
+            "dlah",
+            "tent",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            3,
+            1,
+            0,
+            2
+        ],
+        "ang": [
+            2,
+            0,
+            0,
+            0
+        ],
+        "challenge": [
+            "camel",
+            "dlah",
+            "dlah",
+            "dlah",
+            "man",
+            "tent"
+        ]
+    },
+    {
+        "pos": [
+            3,
+            1,
+            0,
+            2
+        ],
+        "ang": [
+            2,
+            3,
+            0,
+            1
+        ],
+        "challenge": [
+            "camel",
+            "dlah",
+            "dlah",
+            "dlah",
+            "man",
+            "man"
+        ]
+    },
+    {
+        "pos": [
+            1,
+            3,
+            0,
+            2
+        ],
+        "ang": [
+            3,
+            3,
+            0,
+            0
+        ],
+        "challenge": [
+            "camel",
+            "camel",
+            "dlah",
+            "dlah",
+            "dlah",
+            "tent"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "ang": [
+            1,
+            1,
+            0,
+            0
+        ],
+        "challenge": [
+            "camel",
+            "camel",
+            "camel",
+            "man",
+            "man",
+            "man"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            3,
+            1,
+            2
+        ],
+        "ang": [
+            1,
+            1,
+            2,
+            0
+        ],
+        "challenge": [
+            "camel",
+            "camel",
+            "camel",
+            "camel",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            3,
+            2,
+            1
+        ],
+        "ang": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "challenge": [
+            "camel",
+            "camel",
+            "camel",
+            "camel",
+            "camel",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            3,
+            2,
+            1
+        ],
+        "ang": [
+            1,
+            0,
+            1,
+            1
+        ],
+        "challenge": [
+            "camel",
+            "camel",
+            "camel",
+            "camel",
+            "camel",
+            "man"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            2,
+            3,
+            1
+        ],
+        "ang": [
+            0,
+            2,
+            2,
+            0
+        ],
+        "challenge": [
+            "tent",
+            "tent",
+            "wolf",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            2,
+            1,
+            3
+        ],
+        "ang": [
+            0,
+            3,
+            3,
+            0
+        ],
+        "challenge": [
+            "man",
+            "man",
+            "tent",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "ang": [
+            0,
+            2,
+            3,
+            0
+        ],
+        "challenge": [
+            "man",
+            "man",
+            "man",
+            "tent",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "ang": [
+            0,
+            0,
+            3,
+            0
+        ],
+        "challenge": [
+            "man",
+            "man",
+            "man",
+            "tent",
+            "tent"
+        ]
+    },
+    {
+        "pos": [
+            2,
+            1,
+            3,
+            0
+        ],
+        "ang": [
+            1,
+            0,
+            3,
+            1
+        ],
+        "challenge": [
+            "dlah",
+            "dlah",
+            "man",
+            "tent",
+            "tent"
+        ]
+    },
+    {
+        "pos": [
+            2,
+            1,
+            0,
+            3
+        ],
+        "ang": [
+            2,
+            3,
+            0,
+            0
+        ],
+        "challenge": [
+            "dlah",
+            "dlah",
+            "man",
+            "man",
+            "man"
+        ]
+    },
+    {
+        "pos": [
+            1,
+            2,
+            0,
+            3
+        ],
+        "ang": [
+            2,
+            2,
+            0,
+            1
+        ],
+        "challenge": [
+            "dlah",
+            "dlah",
+            "dlah",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            2,
+            1,
+            0,
+            3
+        ],
+        "ang": [
+            1,
+            3,
+            0,
+            1
+        ],
+        "challenge": [
+            "dlah",
+            "dlah",
+            "dlah",
+            "man",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            2,
+            3,
+            1
+        ],
+        "ang": [
+            1,
+            2,
+            2,
+            0
+        ],
+        "challenge": [
+            "camel",
+            "tent",
+            "wolf",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            2,
+            1,
+            3
+        ],
+        "ang": [
+            1,
+            3,
+            3,
+            0
+        ],
+        "challenge": [
+            "camel",
+            "man",
+            "man",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "ang": [
+            1,
+            2,
+            3,
+            0
+        ],
+        "challenge": [
+            "camel",
+            "man",
+            "man",
+            "man",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            2,
+            3,
+            1,
+            0
+        ],
+        "ang": [
+            1,
+            3,
+            0,
+            1
+        ],
+        "challenge": [
+            "camel",
+            "dlah",
+            "dlah",
+            "tent",
+            "tent"
+        ]
+    },
+    {
+        "pos": [
+            3,
+            2,
+            0,
+            1
+        ],
+        "ang": [
+            2,
+            2,
+            0,
+            1
+        ],
+        "challenge": [
+            "camel",
+            "dlah",
+            "dlah",
+            "dlah",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            3,
+            1,
+            0,
+            2
+        ],
+        "ang": [
+            2,
+            3,
+            0,
+            0
+        ],
+        "challenge": [
+            "camel",
+            "dlah",
+            "dlah",
+            "dlah",
+            "man"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            3,
+            2,
+            1
+        ],
+        "ang": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "challenge": [
+            "camel",
+            "camel",
+            "camel",
+            "camel",
+            "camel"
+        ]
+    },
+    {
+        "pos": [
+            2,
+            0,
+            3,
+            1
+        ],
+        "ang": [
+            1,
+            1,
+            2,
+            0
+        ],
+        "challenge": [
+            "tent",
+            "tent",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            2,
+            1,
+            3
+        ],
+        "ang": [
+            0,
+            2,
+            3,
+            0
+        ],
+        "challenge": [
+            "man",
+            "tent",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "ang": [
+            0,
+            3,
+            3,
+            0
+        ],
+        "challenge": [
+            "man",
+            "man",
+            "man",
+            "tent"
+        ]
+    },
+    {
+        "pos": [
+            2,
+            1,
+            3,
+            0
+        ],
+        "ang": [
+            1,
+            3,
+            3,
+            1
+        ],
+        "challenge": [
+            "dlah",
+            "dlah",
+            "man",
+            "tent"
+        ]
+    },
+    {
+        "pos": [
+            2,
+            1,
+            0,
+            3
+        ],
+        "ang": [
+            1,
+            3,
+            0,
+            0
+        ],
+        "challenge": [
+            "dlah",
+            "dlah",
+            "man",
+            "man"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            2,
+            1,
+            3
+        ],
+        "ang": [
+            1,
+            2,
+            3,
+            0
+        ],
+        "challenge": [
+            "camel",
+            "man",
+            "wolf",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "ang": [
+            1,
+            3,
+            3,
+            0
+        ],
+        "challenge": [
+            "camel",
+            "man",
+            "man",
+            "man"
+        ]
+    },
+    {
+        "pos": [
+            2,
+            0,
+            1,
+            3
+        ],
+        "ang": [
+            1,
+            1,
+            3,
+            0
+        ],
+        "challenge": [
+            "man",
+            "tent",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            2,
+            0,
+            1,
+            3
+        ],
+        "ang": [
+            1,
+            1,
+            0,
+            0
+        ],
+        "challenge": [
+            "man",
+            "tent",
+            "tent"
+        ]
+    },
+    {
+        "pos": [
+            1,
+            0,
+            2,
+            3
+        ],
+        "ang": [
+            2,
+            1,
+            3,
+            0
+        ],
+        "challenge": [
+            "man",
+            "man",
+            "tent"
+        ]
+    },
+    {
+        "pos": [
+            3,
+            0,
+            1,
+            2
+        ],
+        "ang": [
+            1,
+            1,
+            0,
+            0
+        ],
+        "challenge": [
+            "camel",
+            "tent",
+            "tent"
+        ]
+    },
+    {
+        "pos": [
+            2,
+            0,
+            1,
+            3
+        ],
+        "ang": [
+            1,
+            2,
+            3,
+            0
+        ],
+        "challenge": [
+            "camel",
+            "man",
+            "wolf"
+        ]
+    },
+    {
+        "pos": [
+            1,
+            0,
+            2,
+            3
+        ],
+        "ang": [
+            2,
+            2,
+            3,
+            0
+        ],
+        "challenge": [
+            "camel",
+            "man",
+            "man"
+        ]
+    },
+    {
+        "pos": [
+            3,
+            0,
+            2,
+            1
+        ],
+        "ang": [
+            1,
+            2,
+            2,
+            1
+        ],
+        "challenge": [
+            "camel",
+            "camel",
+            "camel"
+        ]
+    }
+]
